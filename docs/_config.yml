@@ -1,0 +1,9 @@
+title: MILU Software
+description: Documentação pública oficial do MILU Software
+url: https://ricardosiqueirarf-hash.github.io
+baseurl: /milusoftware
+lang: pt-BR
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
