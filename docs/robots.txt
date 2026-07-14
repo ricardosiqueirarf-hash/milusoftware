@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ricardosiqueirarf-hash.github.io/milusoftware/sitemap.xml
